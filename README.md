@@ -21,3 +21,4 @@ In the AppDelegate class, place AppCenter.start (secretKey: {YOUR SECRET}, servi
 
 =======
 >>>>>>> 72417576a32c32db613c4048e1d0f4f96000cf35
+ I wanted to add screenshots, but something went wrong
