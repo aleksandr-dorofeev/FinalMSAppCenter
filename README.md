@@ -13,5 +13,7 @@ In the AppDelegate class, place AppCenter.start (secretKey: {YOUR SECRET}, servi
 - If we want to track crashes in the app, we just need to start the service.(In the app, the AppDelegate class has the didFinishLaunchingWithOptions method (AppCenter.start (secretKey: {YOUR SECRET}, services: [Crashes.self]))),
 - If you want to receive updates for your app, you just need to start the service.(In the app, the AppDelegate class has the didFinishLaunchingWithOptions method (AppCenter.start (secretKey: {YOUR SECRET}, services: [Distribute.self]))).
 
-
- I wanted to add screenshots, but something went wrong
+![GitHub scr1](https://github.com/aleksandrDor/FinalMSAppCenter/blob/master/Screenshots/Screenshot%202021-05-28%20at%201.48.46%20PM.png)
+![GitHub scr2](https://github.com/aleksandrDor/FinalMSAppCenter/blob/master/Screenshots/Screenshot%202021-05-28%20at%201.49.02%20PM.png)
+![GitHub scr3](https://github.com/aleksandrDor/FinalMSAppCenter/blob/master/Screenshots/Screenshot%202021-05-28%20at%201.49.12%20PM.png)
+![GitHub scr4](https://github.com/aleksandrDor/FinalMSAppCenter/blob/master/Screenshots/Screenshot%202021-05-28%20at%201.49.46%20PM.png)
