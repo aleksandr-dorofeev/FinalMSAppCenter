@@ -12,13 +12,5 @@ In the AppDelegate class, place AppCenter.start (secretKey: {YOUR SECRET}, servi
 - If we want to track a specific action in the app, we need to put Analytics.trackEvent ("Description") in the required method.(In the app, the ViewController class has the buttonIsClick () method),
 - If we want to track crashes in the app, we just need to start the service.(In the app, the AppDelegate class has the didFinishLaunchingWithOptions method (AppCenter.start (secretKey: {YOUR SECRET}, services: [Crashes.self]))),
 - If you want to receive updates for your app, you just need to start the service.(In the app, the AppDelegate class has the didFinishLaunchingWithOptions method (AppCenter.start (secretKey: {YOUR SECRET}, services: [Distribute.self]))).
-<<<<<<< HEAD
 
-![alt text](screenshots/Screenshot 2021-05-28 at 1.48.46 PM.png "")
-![alt text](screenshots/Screenshot 2021-05-28 at 1.49.02 PM.png "")
-![alt text](screenshots/Screenshot 2021-05-28 at 1.49.12 PM.png "")
-![alt text](screenshots/Screenshot 2021-05-28 at 1.49.46 PM.png "")
-
-=======
->>>>>>> 72417576a32c32db613c4048e1d0f4f96000cf35
- I wanted to add screenshots, but something went wrong
+I wanted to add screenshots, but something went wrong
