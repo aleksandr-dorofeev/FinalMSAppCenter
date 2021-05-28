@@ -14,7 +14,7 @@ In the AppDelegate class, place AppCenter.start (secretKey: {YOUR SECRET}, servi
 - If you want to receive updates for your app, you just need to start the service.(In the app, the AppDelegate class has the didFinishLaunchingWithOptions method (AppCenter.start (secretKey: {YOUR SECRET}, services: [Distribute.self]))).
 
 
-![alt text](screenshots/Screenshot 2021-05-28 at 1.48.46 PM.png "")
+![alt image](screenshots/Screenshot 2021-05-28 at 1.48.46 PM.png "")
 ![alt text](screenshots/Screenshot 2021-05-28 at 1.49.02 PM.png "")
 ![alt text](screenshots/Screenshot 2021-05-28 at 1.49.12 PM.png "")
 ![alt text](screenshots/Screenshot 2021-05-28 at 1.49.46 PM.png "")
